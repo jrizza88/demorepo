@@ -1,2 +1,2 @@
-# domerepo
+# demorepo
 cool new demo repo
